@@ -1,1 +1,1 @@
-# sneha24102000-Prediction-Using-Supervised-Machine-Learning
+# sneha24102000-The Sparks Foundations
